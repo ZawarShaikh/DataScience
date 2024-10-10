@@ -1,0 +1,9 @@
+Dataset we can select from whole:
+1 - CTU-Honeypot-Capture-4-1/bro/conn.log.labeled --- benign classes - 452
+2 - CTU-Honeypot-Capture-5-1/bro/conn.log.labeled --- benign classes - 1374
+3 - CTU-Honeypot-Capture-7-1/Somfy-01/bro/conn.log.labeled --- benign classes - 130
+4 - CTU-IoT-Malware-Capture-8-1/bro/conn.log.labeled --- benign classes - 2181, --- Malicious C&C - 8222 - selected 
+5 - CTU-IoT-Malware-Capture-20-1/bro/conn.log.labeled --- benign classes - 3193, --- Malicious C&C - 16 - selected
+6 - CTU-IoT-Malware-Capture-21-1/bro/conn.log.labeled --- benign classes - 3272, --- Malicious C&C - 14 - selected 
+7 - CTU-IoT-Malware-Capture-42-1/bro/conn.log.labeled --- benign classes - 4420, --- Malicious FileDownload - 3, --- Malicious C&C-FileDownload - 3
+8 - CTU-IoT-Malware-Capture-44-1/bro/conn.log.labeled --- benign classes - 211, --- Malicious C&C- 14, --- Malicious C&C-FileDownload - 11, --- Malicious DDoS - 1
