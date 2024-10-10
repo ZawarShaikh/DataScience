@@ -1,0 +1,18 @@
+Relevant Labels from the README
+
+Background:
+This label is applied to all flows initially.
+It represents normal network traffic that is not associated with botnet activity.
+
+LEGITIMATE:
+This label is assigned to flows that match specific filters indicating that the traffic is considered normal and safe.
+This would typically include traffic from known IP addresses of co-workers who were confirmed to be uninfected.
+
+Botnet:
+This label is applied to flows coming from or going to the specific infected IP address (147.32.84.165).
+This indicates malicious traffic associated with the botnet.
+
+
+Selected Labels:
+flow=From-Normal-V44-Stribrek       108807
+flow=From-Botnet-V44-TCP-Attempt     26234
